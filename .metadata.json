@@ -1,0 +1,12 @@
+[
+  {
+    "package": "whiteboxworkflows",
+    "metadata": {
+      "author": "John Lindsay",
+      "organization": "Whitebox Geospatial Inc.",
+      "url": "https://www.whiteboxgeo.com",
+      "license": "MIT",
+      "description": "Whitebox Workflows for R (WbW-R) is a free and open R package that provides access to the full 700+ tool Whitebox geospatial analysis library in an R-first workflow."
+    }
+  }
+]

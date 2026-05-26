@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jblindsay/jblindsay.r-universe.dev
 	branch = HEAD
+[submodule "whiteboxworkflows"]
+	path = whiteboxworkflows
+	url = https://github.com/jblindsay/whitebox_next_gen
+	branch = main
+	subdir = crates/wbw_r/r-package/whiteboxworkflows
